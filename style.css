@@ -1,10 +1,1 @@
-body {
-    margin: 0;
-    overflow: hidden;
-    font-family: Arial, sans-serif;
-}
 
-#game-container {
-    width: 100vw;
-    height: 100vh;
-}
